@@ -56,9 +56,9 @@ All resources live inside a **private VNet**. No VM has a public IP. SQL is only
 
 | Service        | URL                                          |
 |----------------|----------------------------------------------|
-| Frontend       | http://40.67.225.150                         |
-| API Health     | http://40.67.225.150/api/health              |
-| API Ingredients| http://40.67.225.150/api/ingredients         |
+| Frontend       | https://40.67.225.150.nip.io                         |
+| API Health     | https://40.67.225.150.nip.io/api/health              |
+| API Ingredients| https://40.67.225.150.nip.io/api/ingredients         |
 
 ---
 
